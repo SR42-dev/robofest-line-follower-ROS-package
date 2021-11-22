@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/sr42/robofest2021/devel -DCMAKE_INSTALL_PREFIX=/home/sr42/robofest2021/install -G Unix Makefiles
